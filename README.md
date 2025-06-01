@@ -8,6 +8,8 @@ The Model Context Protocol (MCP) is a standardized way for AI assistants to conn
 
 **🌐 Website:** All MCP clients listed here are also featured on our companion website at [bestmcpclients.com](https://www.bestmcpclients.com/) for easy browsing and discovery.
 
+![](./website.png)
+
 ## Categories
 
 - [Desktop Applications](#desktop-applications)
