@@ -1,0 +1,271 @@
+[
+  {
+    "name": "5ire",
+    "originalUrl": "https://5ire.app/favicon.ico",
+    "localPath": "/logos/5ire.ico",
+    "status": "success"
+  },
+  {
+    "name": "BoltAI",
+    "originalUrl": "https://boltai.com/favicon.ico",
+    "localPath": "/logos/boltai.svg",
+    "status": "default",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Cherry Studio",
+    "originalUrl": "https://github.com/kangfenmao/cherry-studio/raw/main/build/icon.png",
+    "localPath": "/logos/cherry-studio.png",
+    "status": "success"
+  },
+  {
+    "name": "Claude Desktop",
+    "originalUrl": "https://claude.ai/favicon.ico",
+    "localPath": "/logos/claude-desktop.svg",
+    "status": "default",
+    "error": "HTTP 403"
+  },
+  {
+    "name": "eechat",
+    "originalUrl": "https://github.com/easychen/eechat/raw/main/icon.png",
+    "localPath": "/logos/eechat.svg",
+    "status": "default",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "FLUJO",
+    "originalUrl": "https://flujo.ai/favicon.ico",
+    "localPath": "/logos/flujo.svg",
+    "status": "default",
+    "error": "Request timeout"
+  },
+  {
+    "name": "HyperChat",
+    "originalUrl": "https://hyperchat.ai/favicon.ico",
+    "localPath": "/logos/hyperchat.svg",
+    "status": "default",
+    "error": "Request timeout"
+  },
+  {
+    "name": "Msty Studio",
+    "originalUrl": "https://msty.app/favicon.ico",
+    "localPath": "/logos/msty-studio.ico",
+    "status": "success"
+  },
+  {
+    "name": "Tome",
+    "originalUrl": "https://tome.app/favicon.ico",
+    "localPath": "/logos/tome.ico",
+    "status": "success"
+  },
+  {
+    "name": "Claude Code",
+    "originalUrl": "https://claude.ai/favicon.ico",
+    "localPath": "/logos/claude-code.svg",
+    "status": "default",
+    "error": "HTTP 403"
+  },
+  {
+    "name": "Cline",
+    "originalUrl": "https://github.com/cline/cline/raw/main/assets/icon.png",
+    "localPath": "/logos/cline.svg",
+    "status": "default",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Continue",
+    "originalUrl": "https://continue.dev/favicon.ico",
+    "localPath": "/logos/continue.svg",
+    "status": "default",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Copilot-MCP",
+    "originalUrl": "https://github.com/favicon.ico",
+    "localPath": "/logos/copilot-mcp.ico",
+    "status": "success"
+  },
+  {
+    "name": "Cursor",
+    "originalUrl": "https://cursor.sh/favicon.ico",
+    "localPath": "/logos/cursor.ico",
+    "status": "success"
+  },
+  {
+    "name": "Emacs Mcp",
+    "originalUrl": "https://www.gnu.org/software/emacs/favicon.ico",
+    "localPath": "/logos/emacs-mcp.svg",
+    "status": "default",
+    "error": "HTTP 403"
+  },
+  {
+    "name": "Roo Code",
+    "originalUrl": "https://roo.codeium.com/favicon.ico",
+    "localPath": "/logos/roo-code.svg",
+    "status": "default",
+    "error": "getaddrinfo ENOTFOUND roo.codeium.com"
+  },
+  {
+    "name": "Sourcegraph Cody",
+    "originalUrl": "https://sourcegraph.com/favicon.ico",
+    "localPath": "/logos/sourcegraph-cody.svg",
+    "status": "default",
+    "error": "Invalid URL"
+  },
+  {
+    "name": "VS Code GitHub Copilot",
+    "originalUrl": "https://github.com/favicon.ico",
+    "localPath": "/logos/vs-code-github-copilot.ico",
+    "status": "success"
+  },
+  {
+    "name": "Windsurf Editor",
+    "originalUrl": "https://codeium.com/favicon.ico",
+    "localPath": "/logos/windsurf-editor.ico",
+    "status": "success"
+  },
+  {
+    "name": "Zed",
+    "originalUrl": "https://zed.dev/favicon.ico",
+    "localPath": "/logos/zed.svg",
+    "status": "default",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "ChatMCP",
+    "originalUrl": "https://github.com/modelcontextprotocol/chatmcp/raw/main/public/favicon.ico",
+    "localPath": "/logos/chatmcp.svg",
+    "status": "default",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "DeepChat",
+    "originalUrl": "https://deepchat.dev/favicon.ico",
+    "localPath": "/logos/deepchat.svg",
+    "status": "default",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "LibreChat",
+    "originalUrl": "https://librechat.ai/favicon.ico",
+    "localPath": "/logos/librechat.ico",
+    "status": "success"
+  },
+  {
+    "name": "NextChat",
+    "originalUrl": "https://nextchat.dev/favicon.ico",
+    "localPath": "/logos/nextchat.png",
+    "status": "success"
+  },
+  {
+    "name": "Y Gui",
+    "originalUrl": "https://github.com/yjs/y-gui/raw/main/favicon.ico",
+    "localPath": "/logos/y-gui.svg",
+    "status": "default",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "console-chat-gpt",
+    "originalUrl": "https://github.com/favicon.ico",
+    "localPath": "/logos/console-chat-gpt.ico",
+    "status": "success"
+  },
+  {
+    "name": "MCP CLI client",
+    "originalUrl": "https://github.com/modelcontextprotocol/cli/raw/main/icon.png",
+    "localPath": "/logos/mcp-cli-client.svg",
+    "status": "default",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "oterm",
+    "originalUrl": "https://github.com/ggozad/oterm/raw/main/assets/icon.png",
+    "localPath": "/logos/oterm.svg",
+    "status": "default",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "y-cli",
+    "originalUrl": "https://github.com/yjs/y-cli/raw/main/icon.png",
+    "localPath": "/logos/y-cli.svg",
+    "status": "default",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "AgentAI",
+    "originalUrl": "https://agentai.dev/favicon.ico",
+    "localPath": "/logos/agentai.svg",
+    "status": "default",
+    "error": "getaddrinfo ENOTFOUND agentai.dev"
+  },
+  {
+    "name": "fast-agent",
+    "originalUrl": "https://github.com/jxnl/fast-agent/raw/main/icon.png",
+    "localPath": "/logos/fast-agent.svg",
+    "status": "default",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Genkit",
+    "originalUrl": "https://firebase.google.com/favicon.ico",
+    "localPath": "/logos/genkit.ico",
+    "status": "success"
+  },
+  {
+    "name": "Goose",
+    "originalUrl": "https://github.com/square/goose/raw/main/assets/icon.png",
+    "localPath": "/logos/goose.svg",
+    "status": "default",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "NVIDIA Agent Intelligence (AIQ) toolkit",
+    "originalUrl": "https://developer.nvidia.com/favicon.ico",
+    "localPath": "/logos/nvidia-agent-intelligence-aiq-toolkit.ico",
+    "status": "success"
+  },
+  {
+    "name": "Microsoft Copilot Studio",
+    "originalUrl": "https://copilot.microsoft.com/favicon.ico",
+    "localPath": "/logos/microsoft-copilot-studio.ico",
+    "status": "success"
+  },
+  {
+    "name": "Alibaba Cloud MCP integrations",
+    "originalUrl": "https://www.alibabacloud.com/favicon.ico",
+    "localPath": "/logos/alibaba-cloud-mcp-integrations.ico",
+    "status": "success"
+  },
+  {
+    "name": "Tencent MCP solutions",
+    "originalUrl": "https://cloud.tencent.com/favicon.ico",
+    "localPath": "/logos/tencent-mcp-solutions.ico",
+    "status": "success"
+  },
+  {
+    "name": "Dify",
+    "originalUrl": "https://dify.ai/favicon.ico",
+    "localPath": "/logos/dify.svg",
+    "status": "default",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Baidu Map MCP integrations",
+    "originalUrl": "https://map.baidu.com/favicon.ico",
+    "localPath": "/logos/baidu-map-mcp-integrations.ico",
+    "status": "success"
+  },
+  {
+    "name": "China Weather MCP Server client integrations",
+    "originalUrl": "https://lbs.amap.com/favicon.ico",
+    "localPath": "/logos/china-weather-mcp-server-client-integrations.svg",
+    "status": "default",
+    "error": "Invalid URL"
+  },
+  {
+    "name": "Hot Topic Aggregator",
+    "originalUrl": "https://github.com/favicon.ico",
+    "localPath": "/logos/hot-topic-aggregator.ico",
+    "status": "success"
+  }
+]
